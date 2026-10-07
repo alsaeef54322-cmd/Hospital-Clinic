@@ -65,6 +65,6 @@ Clinic-Management-System/
 
 ### 👨‍💻 Developer
 
-**Alsaeef**
+**Alsaeed**
 
 > Clinic Management System — A simple, modern, and practical solution for managing clinic operations.
